@@ -1,0 +1,10 @@
+{
+	"name": "synapse-ws-sql--maimisun",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/2f8be1d9-a7ff-4e57-b6e7-4235069a5268/resourceGroups/clr/providers/Microsoft.Synapse/workspaces/maimisun",
+		"groupId": "sql",
+		"fqdns": [
+			"maimisun.867f0ec5-f5d0-4fe5-aced-8d8647ed2c46.sql.azuresynapse.net"
+		]
+	}
+}

@@ -1,0 +1,7 @@
+{
+	"name": "synapse-ws-custstgacct--maimisun-miamisunstorage",
+	"properties": {
+		"privateLinkResourceId": "/subscriptions/2f8be1d9-a7ff-4e57-b6e7-4235069a5268/resourceGroups/clr/providers/Microsoft.Storage/storageAccounts/miamisunstorage",
+		"groupId": "dfs"
+	}
+}
